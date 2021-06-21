@@ -1,0 +1,45 @@
+{
+    "count": 8,
+    "data":[
+        {
+            "id": 0,
+            "name": "Quadro A4",
+            "price": 67.90
+        },
+        {
+            "id": 1,
+            "name": "Memory Board",
+            "price": 67.90
+        },
+        {
+            "id": 2,
+            "name": "Pacote 10 pregadores",
+            "price": 67.90
+        },
+        {
+            "id": 3,
+            "name": "Planner",
+            "price": 67.90
+        },
+        {
+            "id": 4,
+            "name": "Marcador",
+            "price": 67.90
+        },
+        {
+            "id": 5,
+            "name": "Quadro A3",
+            "price": 67.90
+        },
+        {
+            "id": 6,
+            "name": "Quadro A2",
+            "price": 67.90
+        },
+        {
+            "id": 7,
+            "name": "Quadro A1",
+            "price": 67.90
+        }
+    ]
+}
